@@ -1,0 +1,45 @@
+nav{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+li{
+    margin: 15px;
+}
+section{
+    background-color: brown;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer{
+    background-color: chartreuse;
+    height: 20vh;
+    padding: 50px;
+}
+article{
+    background-color: blueviolet;
+    height: 20vh;
+    padding: 50px;
+}
+form{
+    display: grid;
+    grid-gap: 15px;
+}
+input,button{
+    width: 15rem;
+    height: 2rem;
+}
+button{
+    background-color: rgb(0, 26, 255);
+}
+input{
+    height: 2rem; 
+    width: 15rem;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ;
+}
